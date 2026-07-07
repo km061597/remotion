@@ -1,0 +1,38 @@
+{
+	"name": "remotion",
+	"owner": {
+		"name": "Remotion",
+		"email": "hi@remotion.dev"
+	},
+	"metadata": {
+		"description": "Remotion — build videos programmatically with React.",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "remotion",
+			"source": "./packages/skills",
+			"description": "Remotion video creation skills — best practices, animations, audio, captions, 3D, and more for building programmatic videos with React.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Remotion",
+				"email": "hi@remotion.dev"
+			},
+			"homepage": "https://remotion.dev",
+			"repository": "https://github.com/remotion-dev/remotion",
+			"license": "MIT",
+			"keywords": [
+				"remotion",
+				"video",
+				"react",
+				"animation",
+				"composition",
+				"rendering",
+				"ffmpeg",
+				"captions",
+				"audio"
+			],
+			"category": "Design"
+		}
+	]
+}
